@@ -41,8 +41,8 @@ jimp.read()
 ```
 ## Usage
 ```javascript
-let font = await jimp.loadFont(font)
-let welcome = await jimp.read('link')
+let nameyouwant = await jimp.loadFont(font)
+let nameyouwant = await jimp.read('link')
 ```
 ## Example
 ```javascript
