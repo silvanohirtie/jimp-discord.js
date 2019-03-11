@@ -74,7 +74,7 @@ jimp.print()
 ```
 ## Usage
 ```javascript
-welcome.print(font, x, y, 'print message')
+jimp.print(font, x, y, 'print message')
 ```
 ## Example
 ```javascript
