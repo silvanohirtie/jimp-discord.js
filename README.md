@@ -18,7 +18,7 @@ npm i jimp
 ## What will we learn
 We are going to learn:  
 -How to write on images  
--How to add an image over another one
+-How to add an image over another one  
 -How to make a bot that welcome new users with an image that contains their avatar and their username  
 -How to use jimp functions
 
