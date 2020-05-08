@@ -8,7 +8,7 @@ JavaScript Image Manipulation Program
 The "JavaScript Image Manipulation Program"
 
 An image processing library for Node written entirely in JavaScript, with zero native dependencies.  
-For any issue, contact me on discord: Mental#8106
+For any issue, contact me on discord: Silvano#8106
 ## Installation
 Use [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) to install [JIMP](https://www.npmjs.com/package/jimp)
 ```bash
@@ -160,8 +160,6 @@ client.on('guildMemberAdd', async member => {
 })
 ``` 
 
-## Contacts
-If you have any issue, join my [discord](https://discord.gg/9JcGWvS)
 
 
 
